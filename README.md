@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 ```javascript
 function getLife(){
-  return no.life
+  return false
 }
 ```
