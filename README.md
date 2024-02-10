@@ -1,3 +1,4 @@
 ### Hi there 👋
 
-i dont think i need this, github.
+
+https://wakatime.com/badge/user/45de6d99-7fdf-4ce1-b67d-2483e19eefdf.svg
